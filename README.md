@@ -251,6 +251,7 @@ pytest tests/test_bot.py -v
 ```
 ## 🤖 Demo Video:
 
+https://github.com/user-attachments/assets/98aa03bf-39a4-43a3-b2ae-9f68bf2e62d4
 
 
 ## 📊 Performance Metrics
