@@ -249,6 +249,9 @@ pytest --cov=banking_faq_bot
 # Run specific test file
 pytest tests/test_bot.py -v
 ```
+## 🤖 Demo Video:
+
+
 
 ## 📊 Performance Metrics
 
@@ -303,11 +306,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/banking-faq-bot/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/banking-faq-bot/discussions)
-- **Email**: support@yourcompany.com
+- **Email**: hamzabdulk@gmail.com
 
 ---
 
-**Made with ❤️ by [Your Name](https://github.com/yourusername)**
+**Made with ❤️ by [Hamza Abdul Karim]([https://github.com/yourusername](https://github.com/Hamza35779))**
 
